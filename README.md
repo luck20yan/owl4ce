@@ -24,3 +24,5 @@
         </p>
     </details>
 </details>
+
+<!-- https://ezgif.com/crop -->
